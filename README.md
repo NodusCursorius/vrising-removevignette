@@ -1,3 +1,6 @@
+# Archiving this fork since iZastic has updated
+https://github.com/iZastic/vrising-removevignette
+<details>
 # RemoveVignette
 Removes Vignette
 
@@ -19,4 +22,5 @@ Submit a ticket on [GitHub](https://github.com/iZastic/vrising-removevignette/is
 `1.0.0`
 - Initial upload
 
+</details>
 </details>
